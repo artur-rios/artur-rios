@@ -1,16 +1,13 @@
-### Hi there 👋
+# <samp>Artur Rios</samp>
 
-<!--
-**ArturRSO/ArturRSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso))
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/artur.rso)](https://www.instagram.com/artur.rso)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/arturrso)](https://twitter.com/arturrso)
 
-Here are some ideas to get you started:
+## <samp>Hello World!</samp> <img src="https://i.giphy.com/media/l3V0megwbBeETMgZa/giphy.webp" width="22px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work developing projects for big companies, but I also like to code some stuff for myself.</samp>
+
+<samp>Stay free, to browse throuh my GitHub repositories, and know a little more abut me on social media</samp> 
+
+---

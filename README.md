@@ -10,9 +10,11 @@
 
 ## <samp>Hello World!</samp>
 
-<samp>I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work developing projects for big companies, but I also like to code some stuff for myself.</samp>
+<samp>I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Engineer at ExxonMobil by Pantheon INC, but I also like to code some stuff for myself.</samp>
 
 <samp>Stay free to browse my GitHub repositories and know a little more about me on social media.</samp>
+
+<samp>Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^</samp>
 
 ## Languages:
 

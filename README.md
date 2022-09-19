@@ -1,4 +1,4 @@
-# <samp>Oi, eu sou o Artur</samp>
+# <samp>Hello World!</samp>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/artur.rso)](https://www.instagram.com/artur.rso)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso)
@@ -8,7 +8,7 @@
 &nbsp; All my links
 </a>
 
-## <samp>Hello World!</samp>
+## <samp>Welcome!</samp>
 
 <samp>I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Engineer at ExxonMobil by Pantheon INC, but I also like to code some stuff for myself.</samp>
 
@@ -42,7 +42,7 @@
 
 <br />
 
-## Now Playing 🎧
+## Music 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22x4ec27ypqw6ds7y3jjze5ya&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 

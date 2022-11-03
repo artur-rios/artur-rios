@@ -2,11 +2,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/artur.rso)](https://www.instagram.com/artur.rso)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/arturrso)](https://twitter.com/arturrso)
-
-<a href="https://linklist.bio/artur-rso" target="_blank"><img align="left" alt="Links" width="26px" src="https://img.icons8.com/color/48/fa314a/internet--v2.png"/>
-&nbsp; All my links
-</a>
 
 ## <samp>Welcome!</samp>
 

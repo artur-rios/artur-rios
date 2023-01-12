@@ -16,7 +16,7 @@
 
 ## Languages:
 
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
 </a>
 &nbsp;
 <a href="https://dev.java/" target="_blank"><img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>

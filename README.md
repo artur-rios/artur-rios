@@ -1,18 +1,15 @@
-# <samp>Oi, eu sou o Artur</samp>
+# <samp>Hello World!</samp>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/artur.rso)](https://www.instagram.com/artur.rso)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/arturrso)](https://twitter.com/arturrso)
 
-<a href="https://linklist.bio/artur-rso" target="_blank"><img align="left" alt="Links" width="26px" src="https://img.icons8.com/color/48/fa314a/internet--v2.png"/>
-&nbsp; All my links
-</a>
+## <samp>Welcome!</samp>
 
-## <samp>Hello World!</samp>
-
-<samp>I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work developing projects for big companies, but I also like to code some stuff for myself.</samp>
+<samp>I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Engineer at ExxonMobil by Pantheon INC, but I also like to code some stuff for myself.</samp>
 
 <samp>Stay free to browse my GitHub repositories and know a little more about me on social media.</samp>
+
+<samp>Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^</samp>
 
 ## Languages:
 
@@ -40,7 +37,7 @@
 
 <br />
 
-## Now Playing 🎧
+## Music 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22x4ec27ypqw6ds7y3jjze5ya&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 

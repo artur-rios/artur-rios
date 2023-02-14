@@ -11,7 +11,7 @@
 
 <samp>Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^</samp>
 
-## Languages:
+## Languages
 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
 </a>
@@ -21,18 +21,24 @@
 &nbsp;
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </a>
+&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="26px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae"/>
+</a>
 
 <br />
 
-## Frameworks:
+## Frameworks
 
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="left" alt=".Net" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-dot-net-domain-for-sale-under-landing-page-template-landing-shadow-tal-revivo.png"/>
 </a>
 &nbsp;
-<a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" width="26px" src="https://spring.io/images/favicon-9d25009f65637a49ac8d91eb1cf7b75e.ico"/>
+<a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" width="26px" src="https://spring.io/favicon-32x32.png?v=96334d577af708644f6f0495dd1c7bc8"/>
 </a>
 &nbsp;
 <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+</a>
+&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico"/>
 </a>
 
 <br />

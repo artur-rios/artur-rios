@@ -1,9 +1,9 @@
-# `Hello World!`
+# Hello World
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/artur.rso)](https://www.instagram.com/artur.rso)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso)
 
-## `Welcome!`
+## Welcome to my GitHub
 
 ``` plain-text
 I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. 

@@ -5,11 +5,13 @@
 
 ## `Welcome!`
 
-`I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Developer at BTG Pactual bank by BRQ Digital Solutions, but I also like to code some stuff for myself.`
+``` plain-text
+I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Developer at BTG Pactual bank by BRQ Digital Solutions, but I also like to code some stuff for myself.
 
-`Stay free to browse my GitHub repositories and know a little more about me on social media.`
+Stay free to browse my GitHub repositories and know a little more about me on social media.
 
-`Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^`
+Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^
+```
 
 ## Languages
 

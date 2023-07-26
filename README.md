@@ -1,47 +1,35 @@
-# <samp>Hello World!</samp>
+# `Hello World!`
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/artur.rso)](https://www.instagram.com/artur.rso)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso)
 
-## <samp>Welcome!</samp>
+## `Welcome!`
 
-<samp>I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Engineer at ExxonMobil by Pantheon INC, but I also like to code some stuff for myself.</samp>
+`I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Developer at BTG Pactual bank by BRQ Digital Solutions, but I also like to code some stuff for myself.`
 
-<samp>Stay free to browse my GitHub repositories and know a little more about me on social media.</samp>
+`Stay free to browse my GitHub repositories and know a little more about me on social media.`
 
-<samp>Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^</samp>
+`Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^`
 
 ## Languages
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-</a>
+[![chsarp-logo](https://img.icons8.com/color/48/000000/c-sharp-logo-2.png)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 &nbsp;
-<a href="https://dev.java/" target="_blank"><img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-</a>
+[![java-logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://dev.java/)
 &nbsp;
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-</a>
+[![js-logo](https://img.icons8.com/color/48/000000/javascript--v1.png)](https:https://www.javascript.com/)
 &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="26px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae"/>
-</a>
-
-<br />
+[![ts-logo](https://img.icons8.com/fluency/48/typescript--v1.png)](https://www.typescriptlang.org/)
 
 ## Frameworks
 
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="left" alt=".Net" width="26px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-dot-net-domain-for-sale-under-landing-page-template-landing-shadow-tal-revivo.png"/>
-</a>
+[![dotnet-logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACXUlEQVR4nO2WS2gTURiFz7ySiIKUUJ951IhFXQQNEbFqsFZQmmBLqQ0Ydwq+EKm6aEG7TqGLouDCFkUtBotPrBsXKQpuxJULoSAVRCgFN4IIYvHITCbJZEi1Qx7N4h44ZP6fmZv/yz1zCSAkJCTUkGIyxEpsXy/xtJuVGAIgKXaAIkJOJF5im8Qp5FQiQjaJCFU7Qi9j6zjZtpaf4v6S/mwiYPQBHGroHdi0UtUXZaTJzYW+Yn9sV7PRB/B+qQBbU9u5uWcLO24drj+A7usRb0UAHq/HeGZvOrY8AKs1mXNdwX8BqOHzO7lhn4++9gDD53Yw/qiLnZNHjV9eXZFby3fAz+jg7voC5D9TwVWLAUgAnudh817ftpFHHiRKerpbOkPVAViCZs0vPQlgDsAfAO0ATtkAesz6M4AQgKB5rfei5j1fzXpPLQb9H0AvgJR5/RHAWRvAuFk/A3DM9LQFviEA9JhkLRBWgCf2mFh8tVEAdG0D8MsyXB5gxKzHADRZ7AXgqRmA8vAHC747TykapxQ7TiXz3ehhTYsxqNw/UbhP6r7MMgAdeu3SwNELKrOjGgdPKNwflvnzlZt87WarXzKeudSn8MMdl9GzuyIAefhtbihJpjL+ZVEA5d480Rwod4wOyXJpfCKtEr+9yA17sVcp9JMH5eoDGBBXMpSvTRXrgceU++9TuTlTet/IO6Nv/ysxM+Hi7QGV6dMqp9Iaf2eLwy1Mu5kZ0jh8RuWbG1ptAJzavl65oejAAkARO+AWEXIk8RLbJE4hpxIRsklEyKlEhJY7QkJCQkKoh/4CoOD5uUjjqogAAAAASUVORK5CYII=)](https://dotnet.microsoft.com/en-us/)
 &nbsp;
-<a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" width="26px" src="https://spring.io/favicon-32x32.png?v=96334d577af708644f6f0495dd1c7bc8"/>
-</a>
+[![spring-logo](https://img.icons8.com/color/48/spring-logo.png)](https://spring.io/)
 &nbsp;
-<a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-</a>
+[![angular-logo](https://img.icons8.com/color/48/angularjs.png)](https://angular.io/)
 &nbsp;
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico"/>
-</a>
-
-<br />
+[![react-logo](https://img.icons8.com/office/48/react.png)](https://reactjs.org/)
 
 ## Music 🎧
 

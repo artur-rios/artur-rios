@@ -6,7 +6,9 @@
 ## `Welcome!`
 
 ``` plain-text
-I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. Currently, I work as a Software Developer at BTG Pactual bank by BRQ Digital Solutions, but I also like to code some stuff for myself.
+I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. 
+Currently, I work as a Software Developer at BTG Pactual bank by BRQ Digital Solutions.
+However, I also like to code some stuff for myself.
 
 Stay free to browse my GitHub repositories and know a little more about me on social media.
 

@@ -1,6 +1,5 @@
 # Hello World
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/artur.rso)](https://www.instagram.com/artur.rso)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso)
 
 ## Welcome to my GitHub
@@ -9,10 +8,6 @@
 I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. 
 Currently, I work as a Software Developer at BTG Pactual bank by BRQ Digital Solutions.
 However, I also like to code some stuff for myself.
-
-Stay free to browse my GitHub repositories and know a little more about me on social media.
-
-Feel free to use any piece of the public code I have here. If you do so, a reference to my GitHub profile would be nice ^_^
 ```
 
 ## Languages
@@ -21,7 +16,7 @@ Feel free to use any piece of the public code I have here. If you do so, a refer
 &nbsp;
 [![java-logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://dev.java/)
 &nbsp;
-[![js-logo](https://img.icons8.com/color/48/000000/javascript--v1.png)](https:https://www.javascript.com/)
+[![js-logo](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)
 &nbsp;
 [![ts-logo](https://img.icons8.com/fluency/48/typescript--v1.png)](https://www.typescriptlang.org/)
 

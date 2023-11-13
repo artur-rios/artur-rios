@@ -1,6 +1,6 @@
 # Hello World
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rso)](https://www.linkedin.com/in/artur-rso)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rios)](https://www.linkedin.com/in/artur-rios)
 
 ## Welcome to my GitHub
 

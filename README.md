@@ -16,7 +16,7 @@ However, I also like to code some stuff for myself.
 &nbsp;
 [![java-logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://dev.java/)
 &nbsp;
-[![js-logo](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://www.javascript.com/)
+[![js-logo](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 &nbsp;
 [![ts-logo](https://img.icons8.com/fluency/48/typescript--v1.png)](https://www.typescriptlang.org/)
 

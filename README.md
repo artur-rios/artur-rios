@@ -32,6 +32,6 @@ However, I also like to code some stuff for myself.
 
 ## Music 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22x4ec27ypqw6ds7y3jjze5ya&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22x4ec27ypqw6ds7y3jjze5ya&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ---

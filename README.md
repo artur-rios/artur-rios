@@ -29,9 +29,3 @@ However, I also like to code some stuff for myself.
 [![angular-logo](https://img.icons8.com/color/48/angularjs.png)](https://angular.io/)
 &nbsp;
 [![react-logo](https://img.icons8.com/office/48/react.png)](https://reactjs.org/)
-
-## Music 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22x4ec27ypqw6ds7y3jjze5ya&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
----

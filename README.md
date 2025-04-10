@@ -1,13 +1,13 @@
 # Hello World
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/artur-rios)](https://www.linkedin.com/in/artur-rios)
+[![website-badge](https://img.icons8.com/fluency/32/domain.png)](https://artur-rios.tech/) [![linkedin-badge](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/artur-rios)
 
 ## Welcome to my GitHub
 
 ``` plain-text
 I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷. 
 Currently, I work as a Software Developer at BTG Pactual bank by BRQ Digital Solutions.
-However, I also like to code some stuff for myself.
+Here you can find some of my projects, things I develop on free time to test and learn new things.
 ```
 
 ## Languages

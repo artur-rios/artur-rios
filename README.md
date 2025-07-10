@@ -1,6 +1,6 @@
 # Hello World
 
-[![website-badge](https://img.icons8.com/fluency/32/domain.png)](https://artur-rios.tech/) [![linkedin-badge](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/artur-rios)
+[![website-badge](https://img.icons8.com/fluency/32/domain.png)](https://artur-rios.tech/) [![linkedin-badge](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/artur-rios) [![wakatime-badge](https://wakatime.com/favicon-32x32.png)](https://wakatime.com/@artur_rios)
 
 ## Welcome to my GitHub
 

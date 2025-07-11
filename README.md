@@ -4,9 +4,9 @@
 
 ## Welcome to my GitHub
 
-I'm Artur Rios, a software developer and technology enthusiast from Brazil 🇧🇷.  
+I'm Artur Rios, a software developer and technology enthusiast based on São Paulo, Brazil.  
 Currently, I work as a Software Developer at [BTG Pactual](https://www.btgpactual.com/) bank by [BRQ Digital Solutions](https://www.brq.com/).  
-Here you can find some of my projects, things I develop on free time to test and learn new things.
+Here you can find some things I work on free time. I like to code for learning new things, consolidate knowledge or test concepts and technolgies.
 
 ## Languages
 

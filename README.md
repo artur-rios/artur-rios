@@ -1,6 +1,8 @@
 # Hello World
 
-[![website-badge](https://img.icons8.com/fluency/32/domain.png)](https://artur-rios.tech/) [![linkedin-badge](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/artur-rios) [![wakatime-badge](https://wakatime.com/favicon-32x32.png)](https://wakatime.com/@artur_rios)
+[![wakatime](https://wakatime.com/badge/user/7d7ab465-f870-4b55-876c-d779309727f2.svg)](https://wakatime.com/@7d7ab465-f870-4b55-876c-d779309727f2)
+
+[![website-badge](https://img.icons8.com/fluency/32/domain.png)](https://artur-rios.tech/) [![linkedin-badge](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/artur-rios)
 
 ## Welcome to my GitHub
 

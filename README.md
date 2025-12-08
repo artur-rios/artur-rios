@@ -14,4 +14,4 @@ Let's build something meaningful.
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artur-rios&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-tau-89.vercel.app/api/top-langs/?username=artur-rios&layout=donut)](https://github.com/artur-rios/github-readme-stats)

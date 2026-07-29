@@ -6,6 +6,7 @@
 
 [![website](https://img.icons8.com/color/48/domain.png)](https://artur-rios.tech/)
 [![linkedin](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/artur-rios)
+[![instagram](https://img.icons8.com/color/48/instagram-new.png)](https://www.instagram.com/artur.rios.dev/)
 [![X](https://img.icons8.com/color/48/twitterx.png)](https://x.com/artur_rios_dev)
 
 ## Welcome to my GitHub

@@ -2,7 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/7d7ab465-f870-4b55-876c-d779309727f2.svg)](https://wakatime.com/@7d7ab465-f870-4b55-876c-d779309727f2)
 
-[![website-badge](https://img.icons8.com/fluency/32/domain.png)](https://artur-rios.tech/) [![linkedin-badge](https://img.icons8.com/fluency/32/linkedin.png)](https://www.linkedin.com/in/artur-rios)
+## Find me online
+
+[![website](https://img.icons8.com/color/48/domain.png)](https://artur-rios.tech/)
+[![linkedin](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/artur-rios)
+[![X](https://img.icons8.com/color/48/twitterx.png)](https://x.com/artur_rios_dev)
 
 ## Welcome to my GitHub
 

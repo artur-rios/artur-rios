@@ -8,6 +8,7 @@
 [![linkedin](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/artur-rios)
 [![instagram](https://img.icons8.com/color/48/instagram-new.png)](https://www.instagram.com/artur.rios.dev/)
 [![X](https://img.icons8.com/color/48/twitterx.png)](https://x.com/artur_rios_dev)
+[![reddit](https://img.icons8.com/color/48/reddit.png)](https://www.reddit.com/user/artur-dev/)
 
 ## Welcome to my GitHub
 

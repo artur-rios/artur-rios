@@ -12,7 +12,7 @@
 
 ## Welcome to my GitHub
 
-I'm Artur Rios — a passionate software developer from Brazil, currently working at [CI&T](https://www.ciandt.com/) on a project for [Itaú Bank](https://www.itau.com). I thrive on using technology to tackle real-world challenges and turn complex problems into elegant solutions.
+I'm Artur Rios — a passionate software developer from Brazil, currently working at [XP Inc](https://www.xpinc.com/). I thrive on using technology to tackle real-world challenges and turn complex problems into elegant solutions.
 
 Throughout my career, I've cultivated a deep love for learning. Every new project is an opportunity to expand my skills, explore innovative approaches, and grow both professionally and personally. Whether it's mastering a new framework or diving into system architecture, I'm always up for the challenge.
 

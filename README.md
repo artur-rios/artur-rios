@@ -1,51 +1,69 @@
-# Hello World
+# Hi, I'm Artur 👋
 
-[![wakatime](https://wakatime.com/badge/user/7d7ab465-f870-4b55-876c-d779309727f2.svg)](https://wakatime.com/@7d7ab465-f870-4b55-876c-d779309727f2)
+**Senior Software Engineer from Brazil, building full-stack apps at work and open-source software in my free time.**
+
+[![Website](https://img.shields.io/badge/Website-artur--rios.tech-222222)](https://artur-rios.tech/)
+[![Blog](https://img.shields.io/badge/Blog-blog.artur--rios.tech-222222)](https://blog.artur-rios.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-artur--rios-0A66C2)](https://www.linkedin.com/in/artur-rios)
+[![X](https://img.shields.io/badge/X-@artur__rios__dev-000000?logo=x&logoColor=white)](https://x.com/artur_rios_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-@artur.rios.dev-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/artur.rios.dev/)
+[![Reddit](https://img.shields.io/badge/Reddit-u%2Fartur--dev-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/artur-dev/)
 
 ## 🪪 Who am I
 
-I'm Artur Rios — a passionate software developer from Brazil, currently working at [XP Inc](https://www.xpinc.com/). I thrive on using technology to tackle real-world challenges and turn complex problems into elegant solutions.
+I'm a Senior Software Engineer at [XP Inc](https://www.xpinc.com/), where I work as a full-stack developer. Outside of work I maintain a family of .NET libraries published on NuGet and build complete apps end to end: APIs in C# and Rust, cross-platform clients in Flutter, and tooling in Python.
 
-Throughout my career, I've cultivated a deep love for learning. Every new project is an opportunity to expand my skills, explore innovative approaches, and grow both professionally and personally. Whether it's mastering a new framework or diving into system architecture, I'm always up for the challenge.
+I'm always learning, and every side project is an excuse to try a new language, framework or architecture.
 
-Let's build something meaningful.
+Learn more about me on my website: <https://artur-rios.tech/>
 
-Know more about me on my Website: <https://artur-rios.tech/>
+## 🧰 Tech stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+[![Top Langs](https://github-readme-stats-six-tau-89.vercel.app/api/top-langs/?username=artur-rios&layout=donut&theme=transparent&hide_border=true&hide=html,css,scss)](https://github.com/artur-rios/github-readme-stats)
+
+Time spent coding, tracked by WakaTime: [![wakatime](https://wakatime.com/badge/user/7d7ab465-f870-4b55-876c-d779309727f2.svg)](https://wakatime.com/@7d7ab465-f870-4b55-876c-d779309727f2)
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [dotnet-libraries](https://github.com/artur-rios/dotnet-libraries) | The index of my .NET library family: twelve libraries, twenty NuGet packages, one set of conventions | C#, .NET |
+| [Heimdall](https://github.com/artur-rios/heimdall-api) | Centralized identity management API with scope-based multi-tenancy ([UI](https://github.com/artur-rios/heimdall-ui)) | ASP.NET Core, Flutter |
+| [Cerberus](https://github.com/artur-rios/cerberus-api) | End-to-end encrypted vault for credentials, notes and sensitive records, with sharing and offline sync ([UI](https://github.com/artur-rios/cerberus-ui)) | ASP.NET Core, Flutter |
+| [Alexandria](https://github.com/artur-rios/alexandria-api) | A fast, type-aware personal library that indexes and organizes your on-disk media and documents ([UI](https://github.com/artur-rios/alexandria-ui)) | Rust, Flutter |
+| [Maestro](https://github.com/artur-rios/maestro) | Desktop app for designing and running AI-agent workflows against local software projects | Flutter |
+
+See everything I've built on my [website](https://www.artur-rios.tech/projects).
+
+## 💻 Open source and support
+
+All my projects (forks aside) are free to use under the [Artur Rios Attribution License](LICENSE), which lets you use, modify and even sell the code. The one condition is clear credit with a link to my [website](https://artur-rios.tech/) or [GitHub profile](https://github.com/artur-rios). Credit is the best thanks you can give: it helps me grow my network and find new opportunities 😁
+
+If you'd like to go further and help keep my software free of charges and ads, sponsorship is welcome but never expected:
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/artur-rios)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/artur.rios)
 
 ## 💭 My beliefs
 
-I wrote a manifesto you can read here: <https://blog.artur-rios.tech/manifesto/>
+I believe work is the path to self-improvement, dignity and a better life, and that knowledge and technology are meant to be shared freely. I wrote a manifesto about it: <https://blog.artur-rios.tech/manifesto/>
 
 ## 🌴 Hobbies
 
-- Write free and open source software (as you can see here on my [Website](https://www.artur-rios.tech/projects))
-- Travel and know new places (I will try to share more of it on my [Instagram](https://www.instagram.com/artur.rios.dev/))
-- Read books, specially science fiction (some of my favorite authors are [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) and [J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien))
-- Read comic books (I have lots of them and my favorite author is [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore))
-- Write poems and blog posts ([Check out my blog!](https://blog.artur-rios.tech/))
-- Watch movies ([Check what I've been watching here](https://letterboxd.com/artur_rios/))
-
-## 💻 Open source
-
-I like to write free and open source software, and you can feel free to use the code on my GitHub anyway you want (granted by the license files!). The only thing I ask is to reference my [Website](https://artur-rios.tech/) or [GitHub profile](https://github.com/artur-rios) for recognition. I have a job, so I do not look for money with my side projects, I just ask for the reference so I can grow my network and have more opportunitties 😁
-
-## ❤️ Support
-
-If you want to support me, and keep help the software I build free from charges and ads you can do so in these ways:
-
-- Just reference my GitHub, LinkedIn or Website, if you use my software or code or if someone asks who made the cool app you are using 😁
-- Become a GitHub sponsor and earn a cool achivement in your GitHub profile: <https://github.com/sponsors/artur-rios>
-- [Buy Me a Coffee](https://buymeacoffee.com/artur.rios)
-
-**You can make one-time or recurring contributions, give as often as you like, and pause or stop whenever you choose.**
-
-## 👤 Social media links
-
-- [LinkedIn](https://www.linkedin.com/in/artur-rios)
-- [Instagram](https://www.instagram.com/artur.rios.dev/)
-- [Reddit](https://www.reddit.com/user/artur-dev/)
-- [X](https://x.com/artur_rios_dev)
-
-## 🖥️ In what languages I write code?
-
-[![Top Langs](https://github-readme-stats-six-tau-89.vercel.app/api/top-langs/?username=artur-rios&layout=donut)](https://github.com/artur-rios/github-readme-stats)
+- Traveling and exploring new places (I'll try to share more of it on my [Instagram](https://www.instagram.com/artur.rios.dev/))
+- Reading books, especially science fiction. Some of my favorite authors are [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) and [J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)
+- Reading comic books. I have lots of them, and my favorite author is [Alan Moore](https://en.wikipedia.org/wiki/Alan_Moore)
+- Writing poems and blog posts ([check out my blog!](https://blog.artur-rios.tech/))
+- Watching movies ([see what I've been watching](https://letterboxd.com/artur_rios/))
+- Listening to music, especially while working or walking. My favorite genres are [thrash metal](https://en.wikipedia.org/wiki/Thrash_metal), [punk rock](https://en.wikipedia.org/wiki/Punk_rock) and [rap](https://en.wikipedia.org/wiki/Hip-hop)

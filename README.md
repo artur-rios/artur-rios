@@ -50,7 +50,7 @@ See everything I've built on my [website](https://www.artur-rios.tech/projects).
 
 All my projects (forks aside) are free to use under the [Artur Rios Attribution License](LICENSE), which lets you use, modify and even sell the code. The one condition is clear credit with a link to my [website](https://artur-rios.tech/) or [GitHub profile](https://github.com/artur-rios). Credit is the best thanks you can give: it helps me grow my network and find new opportunities 😁
 
-The code is developed on my own Forgejo server, [git.techcraftsmen.net/artur-rios](https://git.techcraftsmen.net/artur-rios), and the repositories here on GitHub are read-only mirrors of it.
+The code is developed on my own Forgejo server, and the repositories here on GitHub are read-only mirrors of it.
 
 If you'd like to go further and help keep my software free of charges and ads, sponsorship is welcome but never expected:
 

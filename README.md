@@ -30,7 +30,7 @@ Learn more about me on my website: <https://artur-rios.tech/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-[![Top Langs](https://github-readme-stats-six-tau-89.vercel.app/api/top-langs/?username=artur-rios&layout=donut&theme=transparent&hide_border=true&hide=html,css,scss)](https://github.com/artur-rios/github-readme-stats)
+[![Top Langs](https://readme-stats.techcraftsmen.net/api/top-langs/?username=artur-rios&layout=donut&theme=transparent&hide_border=true&hide=html,css,scss)](https://github.com/artur-rios/github-readme-stats)
 
 Time spent coding, tracked by WakaTime: [![wakatime](https://wakatime.com/badge/user/7d7ab465-f870-4b55-876c-d779309727f2.svg)](https://wakatime.com/@7d7ab465-f870-4b55-876c-d779309727f2)
 
@@ -49,6 +49,8 @@ See everything I've built on my [website](https://www.artur-rios.tech/projects).
 ## 💻 Open source and support
 
 All my projects (forks aside) are free to use under the [Artur Rios Attribution License](LICENSE), which lets you use, modify and even sell the code. The one condition is clear credit with a link to my [website](https://artur-rios.tech/) or [GitHub profile](https://github.com/artur-rios). Credit is the best thanks you can give: it helps me grow my network and find new opportunities 😁
+
+The code is developed on my own Forgejo server, and the repositories here on GitHub are read-only mirrors of it.
 
 If you'd like to go further and help keep my software free of charges and ads, sponsorship is welcome but never expected:
 

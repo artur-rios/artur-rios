@@ -1,0 +1,8 @@
+// markdownlint-cli2's settings, read by ci/lint.sh (the `lint` check in yggdrasil.yml). Every rule of markdownlint is
+// on except the ones turned off below, each with its reason.
+{
+  "config": {
+    "MD013": false // line length: paragraphs are one line each, wrapped by the reader's editor
+  },
+  "globs": ["**/*.md"]
+}
